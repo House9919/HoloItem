@@ -1,0 +1,9 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.7.7-hotspot",
+            "default": true
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

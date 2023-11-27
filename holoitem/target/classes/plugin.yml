@@ -1,0 +1,14 @@
+name: holoitem
+main: com.house9919.holoitem.Plugin
+version: 0.1.6
+api-version: 1.15
+author: House9919
+description: A Minecraft plugin to create a hologram text in which you can get items.
+
+commands:
+  ch:
+    description: Creates a hologram with a type.
+    usage: /ch [wood/stone]
+  dh:
+    description: Deletes a hologram using a UUID.
+    usage: /dh [UUID]
